@@ -2,7 +2,7 @@
 👨‍💻 I'm a student from Kuwait who's instrested in Software Development!
 ---
 I mainly Code in C++, and have basic knowledge in Web Development, and JS! <br>
-I have a long way ahead of me, and looking forward to further develop my knowledge!
+I have a long way ahead of me, and looking forward to further develop my knowledge.
 
 # 📊 Basic Stats about my profile
 
